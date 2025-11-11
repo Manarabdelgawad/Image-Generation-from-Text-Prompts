@@ -1,4 +1,4 @@
-Image Generation from Text Prompts
+# Image Generation from Text Prompts
 
 This repository contains a Jupyter notebook that demonstrates how to generate images from text prompts using a Stable Diffusion model via the diffusers library from Hugging Face. It uses the pre-trained model CompVis/stable-diffusion-v1-4 to create AI-generated images based on user-provided text descriptions.
 
